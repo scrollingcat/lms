@@ -1,0 +1,27 @@
+#Adding_Books.py
+addbooks(Name_of_Book,Author,Publisher,ISBN,Quantity,Tags,barcode)
+#admission_no_finder.py
+admission_no_finder(name)
+#book_return.py
+record_no_check(record_no_input),show_child(),show_book(),fine_check(),return_book(),send_email()
+#book_search.py
+search_book(book_search_name)
+#book_update_new.py
+book_code_check(Book_Code),update_book_name(Name_of_Book,Book_Code),update_author_name(Author,Book_Code),update_publication_name(Publisher,Book_Code),update_ISBN_number(ISBN,Book_Code),update_quantity_of_book(Quantity,Book_Code),update_book_tag(new_tag,Book_Code)
+#delete.py
+delete_book(book_code)
+#Entension.py
+extend(record_no),extend_email(record_no)
+#issue_record_show.py
+show_all_records()
+#issue_records.py
+check_admission_no(admission_no),check_book_code(book_code),book_availability(admission_no, book_code),availability_email(admission_no,book_code),issue_book(admission_no,book_code)
+#record_no_finder.py
+record_no_finder(admission_no)
+#show_books.py
+show_all_books()
+#student_list.py
+show_students()
+#warning_email.py
+warning_email_send()
+#date_file.txt
